@@ -1,5 +1,5 @@
 markdown
-# AEON DISCOVERY: High-Fidelity Climate Chronology
+# AEON DISCOVERY: Climate Pulse Project
 ### v8.8 | The 1850 Bridge & Spatial Registry Engine
 **Status: Phase 5 SECURED (💎)**
 
@@ -11,6 +11,8 @@ markdown
 
 ## 🌐 Project Vision
 **The Climate Pulse Project** is the 1st piece in a greater cog which will create a time-travel engine designed to visualize global climate shifts. By bridging "Ancient" (1752+) and "Modern" (1850+) datasets, this engine creates a seamless, 175-year longitudinal record optimized for high-performance cloud environments.
+
+![ClimatePulse Dashboard Demo](https://github.com/EAdamsDataWizard/AEON_DISCOVERY/releases/download/MasterData/SlicingbySurfaceCoutnry.gif)
 
 > [!IMPORTANT]
 > **[🚀 Click here to explore the Interactive 3D Showcase on Maven Analytics](https://app.powerbi.com/view?r=eyJrIjoiNGEwNzQxZjAtN2E0Ny00NTZhLWJhZGMtMjM4YjljYTczM2M5IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)])**
@@ -83,5 +85,6 @@ Modern 5x5 grid data (5 million+ rows) lacks country/city metadata. To resolve t
 
 ## 💡 Development Note
 This project was developed through a rigorous iterative process. While AI provided a baseline, I manually audited and refactored every line to ensure efficiency over convenience. The result is a modular, scalable system that avoids "memory bloat" and ensures data precision, proving that legacy logic and modern tech are a powerful combination.
+
 
 
