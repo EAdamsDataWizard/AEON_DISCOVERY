@@ -3,17 +3,17 @@ markdown
 ### v8.8 | The 1850 Bridge & Spatial Registry Engine
 **Status: Phase 5 SECURED (💎)**
 
-[![Maven Showcase - Live Demo](https://img.shields.io)]([INSERT_YOUR_MAVEN_LINK_HERE])
+[![Maven Showcase - Live Demo](https://img.shields.io)](https://app.powerbi.com/view?r=eyJrIjoiNGEwNzQxZjAtN2E0Ny00NTZhLWJhZGMtMjM4YjljYTczM2M5IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
 [![Python 3.12+](https://img.shields.io)](https://www.python.org)
 [![Database: DuckDB](https://img.shields.io)](https://duckdb.org)
 
 ---
 
 ## 🌐 Project Vision
-**AEON DISCOVERY** is a 3D bi-directional time-travel engine designed to visualize global climate shifts. By bridging "Ancient" (1752+) and "Modern" (1850+) datasets, this engine creates a seamless, 175-year longitudinal record optimized for high-performance cloud environments.
+**The Climate Pulse Project** is the 1st piece in a greater cog which will create a time-travel engine designed to visualize global climate shifts. By bridging "Ancient" (1752+) and "Modern" (1850+) datasets, this engine creates a seamless, 175-year longitudinal record optimized for high-performance cloud environments.
 
 > [!IMPORTANT]
-> **[🚀 Click here to explore the Interactive 3D Showcase on Maven Analytics]([INSERT_YOUR_MAVEN_LINK_HERE])**
+> **[🚀 Click here to explore the Interactive 3D Showcase on Maven Analytics](https://app.powerbi.com/view?r=eyJrIjoiNGEwNzQxZjAtN2E0Ny00NTZhLWJhZGMtMjM4YjljYTczM2M5IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)])**
 
 ---
 
@@ -83,4 +83,5 @@ Modern 5x5 grid data (5 million+ rows) lacks country/city metadata. To resolve t
 
 ## 💡 Development Note
 This project was developed through a rigorous iterative process. While AI provided a baseline, I manually audited and refactored every line to ensure efficiency over convenience. The result is a modular, scalable system that avoids "memory bloat" and ensures data precision, proving that legacy logic and modern tech are a powerful combination.
+
 
