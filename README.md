@@ -69,7 +69,7 @@ Modern 5x5 grid data (5 million+ rows) lacks country/city metadata. To resolve t
 6.  **Type Enforcement:** Cast all time-series data to `dt` and coordinates to `float`.
 7.  **Grid Normalization:** Re-mapped Ancient 180-degree logic to Modern 360-degree logic.
 8.  **Slicing:** Applied Geolocation lookups to define Land vs. Ocean for deep-dive analysis.
-9.  **Deployment:** Stitched branches into a Parquet "Source of Truth" and connected to Power BI.
+9.  **Deployment:** Stitched branches into a [Parquet](https://github.com/EAdamsDataWizard/AEON_DISCOVERY/releases/tag/MasterData) "Source of Truth" and connected to Power BI.
 
 ---
 
@@ -83,3 +83,4 @@ Modern 5x5 grid data (5 million+ rows) lacks country/city metadata. To resolve t
 
 ## 💡 Development Note
 This project was developed through a rigorous iterative process. While AI provided a baseline, I manually audited and refactored every line to ensure efficiency over convenience. The result is a modular, scalable system that avoids "memory bloat" and ensures data precision, proving that legacy logic and modern tech are a powerful combination.
+
