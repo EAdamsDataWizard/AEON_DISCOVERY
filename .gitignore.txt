@@ -1,0 +1,16 @@
+.venv/
+*.csv
+!Master_5x5_Grid_Registry.csv
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# DuckDB / Local DBs
+*.db
+*.wal
+
+# OS files
+.DS_Store
+Thumbs.db
+*.parquet

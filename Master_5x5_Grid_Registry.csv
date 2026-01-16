@@ -1,0 +1,2593 @@
+Lat_Key,Lon_Key,Primary_Label,Surface_Type,Land_Mass_Pct,Is_Polar,Country_Code
+-87.5,2.5,Antarctica,Polar,0.0,1,AQ
+-87.5,7.5,Antarctica,Polar,0.0,1,AQ
+-87.5,12.5,Antarctica,Polar,0.0,1,AQ
+-87.5,17.5,Antarctica,Polar,0.0,1,AQ
+-87.5,22.5,Antarctica,Polar,0.0,1,AQ
+-87.5,27.5,Antarctica,Polar,0.0,1,AQ
+-87.5,32.5,Antarctica,Polar,0.0,1,AQ
+-87.5,37.5,Antarctica,Polar,0.0,1,AQ
+-87.5,42.5,Antarctica,Polar,0.0,1,AQ
+-87.5,47.5,Antarctica,Polar,0.0,1,AQ
+-87.5,52.5,Antarctica,Polar,0.0,1,AQ
+-87.5,57.5,Antarctica,Polar,0.0,1,AQ
+-87.5,62.5,Antarctica,Polar,0.0,1,AQ
+-87.5,67.5,Antarctica,Polar,0.0,1,AQ
+-87.5,72.5,Antarctica,Polar,0.0,1,AQ
+-87.5,77.5,Antarctica,Polar,0.0,1,AQ
+-87.5,82.5,Antarctica,Polar,0.0,1,AQ
+-87.5,87.5,Antarctica,Polar,0.0,1,AQ
+-87.5,92.5,Antarctica,Polar,0.0,1,AQ
+-87.5,97.5,Antarctica,Polar,0.0,1,AQ
+-87.5,102.5,Antarctica,Polar,0.0,1,AQ
+-87.5,107.5,Antarctica,Polar,0.0,1,AQ
+-87.5,112.5,Antarctica,Polar,0.0,1,AQ
+-87.5,117.5,Antarctica,Polar,0.0,1,AQ
+-87.5,122.5,Antarctica,Polar,0.0,1,AQ
+-87.5,127.5,Antarctica,Polar,0.0,1,AQ
+-87.5,132.5,Antarctica,Polar,0.0,1,AQ
+-87.5,137.5,Antarctica,Polar,0.0,1,AQ
+-87.5,142.5,Antarctica,Polar,0.0,1,AQ
+-87.5,147.5,Antarctica,Polar,0.0,1,AQ
+-87.5,152.5,Antarctica,Polar,0.0,1,AQ
+-87.5,157.5,Antarctica,Polar,0.0,1,AQ
+-87.5,162.5,Antarctica,Polar,0.0,1,AQ
+-87.5,167.5,Antarctica,Polar,0.0,1,AQ
+-87.5,172.5,Antarctica,Polar,0.0,1,AQ
+-87.5,177.5,Antarctica,Polar,0.0,1,AQ
+-87.5,182.5,Antarctica,Polar,0.0,1,AQ
+-87.5,187.5,Antarctica,Polar,0.0,1,AQ
+-87.5,192.5,Antarctica,Polar,0.0,1,AQ
+-87.5,197.5,Antarctica,Polar,0.0,1,AQ
+-87.5,202.5,Antarctica,Polar,0.0,1,AQ
+-87.5,207.5,Antarctica,Polar,0.0,1,AQ
+-87.5,212.5,Antarctica,Polar,0.0,1,AQ
+-87.5,217.5,Antarctica,Polar,0.0,1,AQ
+-87.5,222.5,Antarctica,Polar,0.0,1,AQ
+-87.5,227.5,Antarctica,Polar,0.0,1,AQ
+-87.5,232.5,Antarctica,Polar,0.0,1,AQ
+-87.5,237.5,Antarctica,Polar,0.0,1,AQ
+-87.5,242.5,Antarctica,Polar,0.0,1,AQ
+-87.5,247.5,Antarctica,Polar,0.0,1,AQ
+-87.5,252.5,Antarctica,Polar,0.0,1,AQ
+-87.5,257.5,Antarctica,Polar,0.0,1,AQ
+-87.5,262.5,Antarctica,Polar,0.0,1,AQ
+-87.5,267.5,Antarctica,Polar,0.0,1,AQ
+-87.5,272.5,Antarctica,Polar,0.0,1,AQ
+-87.5,277.5,Antarctica,Polar,0.0,1,AQ
+-87.5,282.5,Antarctica,Polar,0.0,1,AQ
+-87.5,287.5,Antarctica,Polar,0.0,1,AQ
+-87.5,292.5,Antarctica,Polar,0.0,1,AQ
+-87.5,297.5,Antarctica,Polar,0.0,1,AQ
+-87.5,302.5,Antarctica,Polar,0.0,1,AQ
+-87.5,307.5,Antarctica,Polar,0.0,1,AQ
+-87.5,312.5,Antarctica,Polar,0.0,1,AQ
+-87.5,317.5,Antarctica,Polar,0.0,1,AQ
+-87.5,322.5,Antarctica,Polar,0.0,1,AQ
+-87.5,327.5,Antarctica,Polar,0.0,1,AQ
+-87.5,332.5,Antarctica,Polar,0.0,1,AQ
+-87.5,337.5,Antarctica,Polar,0.0,1,AQ
+-87.5,342.5,Antarctica,Polar,0.0,1,AQ
+-87.5,347.5,Antarctica,Polar,0.0,1,AQ
+-87.5,352.5,Antarctica,Polar,0.0,1,AQ
+-87.5,357.5,Antarctica,Polar,0.0,1,AQ
+-82.5,2.5,Antarctica,Polar,0.0,1,AQ
+-82.5,7.5,Antarctica,Polar,0.0,1,AQ
+-82.5,12.5,Antarctica,Polar,0.0,1,AQ
+-82.5,17.5,Antarctica,Polar,0.0,1,AQ
+-82.5,22.5,Antarctica,Polar,0.0,1,AQ
+-82.5,27.5,Antarctica,Polar,0.0,1,AQ
+-82.5,32.5,Antarctica,Polar,0.0,1,AQ
+-82.5,37.5,Antarctica,Polar,0.0,1,AQ
+-82.5,42.5,Antarctica,Polar,0.0,1,AQ
+-82.5,47.5,Antarctica,Polar,0.0,1,AQ
+-82.5,52.5,Antarctica,Polar,0.0,1,AQ
+-82.5,57.5,Antarctica,Polar,0.0,1,AQ
+-82.5,62.5,Antarctica,Polar,0.0,1,AQ
+-82.5,67.5,Antarctica,Polar,0.0,1,AQ
+-82.5,72.5,Antarctica,Polar,0.0,1,AQ
+-82.5,77.5,Antarctica,Polar,0.0,1,AQ
+-82.5,82.5,Antarctica,Polar,0.0,1,AQ
+-82.5,87.5,Antarctica,Polar,0.0,1,AQ
+-82.5,92.5,Antarctica,Polar,0.0,1,AQ
+-82.5,97.5,Antarctica,Polar,0.0,1,AQ
+-82.5,102.5,Antarctica,Polar,0.0,1,AQ
+-82.5,107.5,Antarctica,Polar,0.0,1,AQ
+-82.5,112.5,Antarctica,Polar,0.0,1,AQ
+-82.5,117.5,Antarctica,Polar,0.0,1,AQ
+-82.5,122.5,Antarctica,Polar,0.0,1,AQ
+-82.5,127.5,Antarctica,Polar,0.0,1,AQ
+-82.5,132.5,Antarctica,Polar,0.0,1,AQ
+-82.5,137.5,Antarctica,Polar,0.0,1,AQ
+-82.5,142.5,Antarctica,Polar,0.0,1,AQ
+-82.5,147.5,Antarctica,Polar,0.0,1,AQ
+-82.5,152.5,Antarctica,Polar,0.0,1,AQ
+-82.5,157.5,Antarctica,Polar,0.0,1,AQ
+-82.5,162.5,Antarctica,Polar,0.0,1,AQ
+-82.5,167.5,Antarctica,Polar,0.0,1,AQ
+-82.5,172.5,Antarctica,Polar,0.0,1,AQ
+-82.5,177.5,Antarctica,Polar,0.0,1,AQ
+-82.5,182.5,Antarctica,Polar,0.0,1,AQ
+-82.5,187.5,Antarctica,Polar,0.0,1,AQ
+-82.5,192.5,Antarctica,Polar,0.0,1,AQ
+-82.5,197.5,Antarctica,Polar,0.0,1,AQ
+-82.5,202.5,Antarctica,Polar,0.0,1,AQ
+-82.5,207.5,Antarctica,Polar,0.0,1,AQ
+-82.5,212.5,Antarctica,Polar,0.0,1,AQ
+-82.5,217.5,Antarctica,Polar,0.0,1,AQ
+-82.5,222.5,Antarctica,Polar,0.0,1,AQ
+-82.5,227.5,Antarctica,Polar,0.0,1,AQ
+-82.5,232.5,Antarctica,Polar,0.0,1,AQ
+-82.5,237.5,Antarctica,Polar,0.0,1,AQ
+-82.5,242.5,Antarctica,Polar,0.0,1,AQ
+-82.5,247.5,Antarctica,Polar,0.0,1,AQ
+-82.5,252.5,Antarctica,Polar,0.0,1,AQ
+-82.5,257.5,Antarctica,Polar,0.0,1,AQ
+-82.5,262.5,Antarctica,Polar,0.0,1,AQ
+-82.5,267.5,Antarctica,Polar,0.0,1,AQ
+-82.5,272.5,Antarctica,Polar,0.0,1,AQ
+-82.5,277.5,Antarctica,Polar,0.0,1,AQ
+-82.5,282.5,Antarctica,Polar,0.0,1,AQ
+-82.5,287.5,Antarctica,Polar,0.0,1,AQ
+-82.5,292.5,Antarctica,Polar,0.0,1,AQ
+-82.5,297.5,Antarctica,Polar,0.0,1,AQ
+-82.5,302.5,Antarctica,Polar,0.0,1,AQ
+-82.5,307.5,Antarctica,Polar,0.0,1,AQ
+-82.5,312.5,Antarctica,Polar,0.0,1,AQ
+-82.5,317.5,Antarctica,Polar,0.0,1,AQ
+-82.5,322.5,Antarctica,Polar,0.0,1,AQ
+-82.5,327.5,Antarctica,Polar,0.0,1,AQ
+-82.5,332.5,Antarctica,Polar,0.0,1,AQ
+-82.5,337.5,Antarctica,Polar,0.0,1,AQ
+-82.5,342.5,Antarctica,Polar,0.0,1,AQ
+-82.5,347.5,Antarctica,Polar,0.0,1,AQ
+-82.5,352.5,Antarctica,Polar,0.0,1,AQ
+-82.5,357.5,Antarctica,Polar,0.0,1,AQ
+-77.5,2.5,Antarctica,Polar,0.0,1,AQ
+-77.5,7.5,Antarctica,Polar,0.0,1,AQ
+-77.5,12.5,Antarctica,Polar,0.0,1,AQ
+-77.5,17.5,Antarctica,Polar,0.0,1,AQ
+-77.5,22.5,Antarctica,Polar,0.0,1,AQ
+-77.5,27.5,Antarctica,Polar,0.0,1,AQ
+-77.5,32.5,Antarctica,Polar,0.0,1,AQ
+-77.5,37.5,Antarctica,Polar,0.0,1,AQ
+-77.5,42.5,Antarctica,Polar,0.0,1,AQ
+-77.5,47.5,Antarctica,Polar,0.0,1,AQ
+-77.5,52.5,Antarctica,Polar,0.0,1,AQ
+-77.5,57.5,Antarctica,Polar,0.0,1,AQ
+-77.5,62.5,Antarctica,Polar,0.0,1,AQ
+-77.5,67.5,Antarctica,Polar,0.0,1,AQ
+-77.5,72.5,Antarctica,Polar,0.0,1,AQ
+-77.5,77.5,Antarctica,Polar,0.0,1,AQ
+-77.5,82.5,Antarctica,Polar,0.0,1,AQ
+-77.5,87.5,Antarctica,Polar,0.0,1,AQ
+-77.5,92.5,Antarctica,Polar,0.0,1,AQ
+-77.5,97.5,Antarctica,Polar,0.0,1,AQ
+-77.5,102.5,Antarctica,Polar,0.0,1,AQ
+-77.5,107.5,Antarctica,Polar,0.0,1,AQ
+-77.5,112.5,Antarctica,Polar,0.0,1,AQ
+-77.5,117.5,Antarctica,Polar,0.0,1,AQ
+-77.5,122.5,Antarctica,Polar,0.0,1,AQ
+-77.5,127.5,Antarctica,Polar,0.0,1,AQ
+-77.5,132.5,Antarctica,Polar,0.0,1,AQ
+-77.5,137.5,Antarctica,Polar,0.0,1,AQ
+-77.5,142.5,Antarctica,Polar,0.0,1,AQ
+-77.5,147.5,Antarctica,Polar,0.0,1,AQ
+-77.5,152.5,Antarctica,Polar,0.0,1,AQ
+-77.5,157.5,Antarctica,Polar,0.0,1,AQ
+-77.5,162.5,Antarctica,Polar,0.0,1,AQ
+-77.5,167.5,Antarctica,Polar,0.0,1,AQ
+-77.5,172.5,Antarctica,Polar,0.0,1,AQ
+-77.5,177.5,Antarctica,Polar,0.0,1,AQ
+-77.5,182.5,Antarctica,Polar,0.0,1,AQ
+-77.5,187.5,Antarctica,Polar,0.0,1,AQ
+-77.5,192.5,Antarctica,Polar,0.0,1,AQ
+-77.5,197.5,Antarctica,Polar,0.0,1,AQ
+-77.5,202.5,Antarctica,Polar,0.0,1,AQ
+-77.5,207.5,Antarctica,Polar,0.0,1,AQ
+-77.5,212.5,Antarctica,Polar,0.0,1,AQ
+-77.5,217.5,Antarctica,Polar,0.0,1,AQ
+-77.5,222.5,Antarctica,Polar,0.0,1,AQ
+-77.5,227.5,Antarctica,Polar,0.0,1,AQ
+-77.5,232.5,Antarctica,Polar,0.0,1,AQ
+-77.5,237.5,Antarctica,Polar,0.0,1,AQ
+-77.5,242.5,Antarctica,Polar,0.0,1,AQ
+-77.5,247.5,Antarctica,Polar,0.0,1,AQ
+-77.5,252.5,Antarctica,Polar,0.0,1,AQ
+-77.5,257.5,Antarctica,Polar,0.0,1,AQ
+-77.5,262.5,Antarctica,Polar,0.0,1,AQ
+-77.5,267.5,Antarctica,Polar,0.0,1,AQ
+-77.5,272.5,Antarctica,Polar,0.0,1,AQ
+-77.5,277.5,Antarctica,Polar,0.0,1,AQ
+-77.5,282.5,Antarctica,Polar,0.0,1,AQ
+-77.5,287.5,Antarctica,Polar,0.0,1,AQ
+-77.5,292.5,Antarctica,Polar,0.0,1,AQ
+-77.5,297.5,Antarctica,Polar,0.0,1,AQ
+-77.5,302.5,Antarctica,Polar,0.0,1,AQ
+-77.5,307.5,Antarctica,Polar,0.0,1,AQ
+-77.5,312.5,Antarctica,Polar,0.0,1,AQ
+-77.5,317.5,Antarctica,Polar,0.0,1,AQ
+-77.5,322.5,Antarctica,Polar,0.0,1,AQ
+-77.5,327.5,Antarctica,Polar,0.0,1,AQ
+-77.5,332.5,Antarctica,Polar,0.0,1,AQ
+-77.5,337.5,Antarctica,Polar,0.0,1,AQ
+-77.5,342.5,Antarctica,Polar,0.0,1,AQ
+-77.5,347.5,Antarctica,Polar,0.0,1,AQ
+-77.5,352.5,Antarctica,Polar,0.0,1,AQ
+-77.5,357.5,Antarctica,Polar,0.0,1,AQ
+-72.5,2.5,Antarctica,Polar,0.0,1,AQ
+-72.5,7.5,Antarctica,Polar,0.0,1,AQ
+-72.5,12.5,Antarctica,Polar,0.0,1,AQ
+-72.5,17.5,Antarctica,Polar,0.0,1,AQ
+-72.5,22.5,Antarctica,Polar,0.0,1,AQ
+-72.5,27.5,Antarctica,Polar,0.0,1,AQ
+-72.5,32.5,Antarctica,Polar,0.0,1,AQ
+-72.5,37.5,Antarctica,Polar,0.0,1,AQ
+-72.5,42.5,Antarctica,Polar,0.0,1,AQ
+-72.5,47.5,Antarctica,Polar,0.0,1,AQ
+-72.5,52.5,Antarctica,Polar,0.0,1,AQ
+-72.5,57.5,Antarctica,Polar,0.0,1,AQ
+-72.5,62.5,Antarctica,Polar,0.0,1,AQ
+-72.5,67.5,Antarctica,Polar,0.0,1,AQ
+-72.5,72.5,Antarctica,Polar,0.0,1,AQ
+-72.5,77.5,Antarctica,Polar,0.0,1,AQ
+-72.5,82.5,Antarctica,Polar,0.0,1,AQ
+-72.5,87.5,Antarctica,Polar,0.0,1,AQ
+-72.5,92.5,Antarctica,Polar,0.0,1,AQ
+-72.5,97.5,Antarctica,Polar,0.0,1,AQ
+-72.5,102.5,Antarctica,Polar,0.0,1,AQ
+-72.5,107.5,Antarctica,Polar,0.0,1,AQ
+-72.5,112.5,Antarctica,Polar,0.0,1,AQ
+-72.5,117.5,Antarctica,Polar,0.0,1,AQ
+-72.5,122.5,Antarctica,Polar,0.0,1,AQ
+-72.5,127.5,Antarctica,Polar,0.0,1,AQ
+-72.5,132.5,Antarctica,Polar,0.0,1,AQ
+-72.5,137.5,Antarctica,Polar,0.0,1,AQ
+-72.5,142.5,Antarctica,Polar,0.0,1,AQ
+-72.5,147.5,Antarctica,Polar,0.0,1,AQ
+-72.5,152.5,Antarctica,Polar,0.0,1,AQ
+-72.5,157.5,Antarctica,Polar,0.0,1,AQ
+-72.5,162.5,Antarctica,Polar,0.0,1,AQ
+-72.5,167.5,Antarctica,Polar,0.0,1,AQ
+-72.5,172.5,Antarctica,Polar,0.0,1,AQ
+-72.5,177.5,Antarctica,Polar,0.0,1,AQ
+-72.5,182.5,Antarctica,Polar,0.0,1,AQ
+-72.5,187.5,Antarctica,Polar,0.0,1,AQ
+-72.5,192.5,Antarctica,Polar,0.0,1,AQ
+-72.5,197.5,Antarctica,Polar,0.0,1,AQ
+-72.5,202.5,Antarctica,Polar,0.0,1,AQ
+-72.5,207.5,Antarctica,Polar,0.0,1,AQ
+-72.5,212.5,Antarctica,Polar,0.0,1,AQ
+-72.5,217.5,Antarctica,Polar,0.0,1,AQ
+-72.5,222.5,Antarctica,Polar,0.0,1,AQ
+-72.5,227.5,Antarctica,Polar,0.0,1,AQ
+-72.5,232.5,Antarctica,Polar,0.0,1,AQ
+-72.5,237.5,Antarctica,Polar,0.0,1,AQ
+-72.5,242.5,Antarctica,Polar,0.0,1,AQ
+-72.5,247.5,Antarctica,Polar,0.0,1,AQ
+-72.5,252.5,Antarctica,Polar,0.0,1,AQ
+-72.5,257.5,Antarctica,Polar,0.0,1,AQ
+-72.5,262.5,Antarctica,Polar,0.0,1,AQ
+-72.5,267.5,Antarctica,Polar,0.0,1,AQ
+-72.5,272.5,Antarctica,Polar,0.0,1,AQ
+-72.5,277.5,Antarctica,Polar,0.0,1,AQ
+-72.5,282.5,Antarctica,Polar,0.0,1,AQ
+-72.5,287.5,Antarctica,Polar,0.0,1,AQ
+-72.5,292.5,Antarctica,Polar,0.0,1,AQ
+-72.5,297.5,Antarctica,Polar,0.0,1,AQ
+-72.5,302.5,Antarctica,Polar,0.0,1,AQ
+-72.5,307.5,Antarctica,Polar,0.0,1,AQ
+-72.5,312.5,Antarctica,Polar,0.0,1,AQ
+-72.5,317.5,Antarctica,Polar,0.0,1,AQ
+-72.5,322.5,Antarctica,Polar,0.0,1,AQ
+-72.5,327.5,Antarctica,Polar,0.0,1,AQ
+-72.5,332.5,Antarctica,Polar,0.0,1,AQ
+-72.5,337.5,Antarctica,Polar,0.0,1,AQ
+-72.5,342.5,Antarctica,Polar,0.0,1,AQ
+-72.5,347.5,Antarctica,Polar,0.0,1,AQ
+-72.5,352.5,Antarctica,Polar,0.0,1,AQ
+-72.5,357.5,Antarctica,Polar,0.0,1,AQ
+-67.5,2.5,Antarctica,Polar,0.0,1,AQ
+-67.5,7.5,Antarctica,Polar,0.0,1,AQ
+-67.5,12.5,Antarctica,Polar,0.0,1,AQ
+-67.5,17.5,Antarctica,Polar,0.0,1,AQ
+-67.5,22.5,Antarctica,Polar,0.0,1,AQ
+-67.5,27.5,Antarctica,Polar,0.0,1,AQ
+-67.5,32.5,Antarctica,Polar,0.0,1,AQ
+-67.5,37.5,Antarctica,Polar,0.0,1,AQ
+-67.5,42.5,Antarctica,Polar,0.0,1,AQ
+-67.5,47.5,Antarctica,Polar,0.0,1,AQ
+-67.5,52.5,Antarctica,Polar,0.0,1,AQ
+-67.5,57.5,Antarctica,Polar,0.0,1,AQ
+-67.5,62.5,Antarctica,Polar,0.0,1,AQ
+-67.5,67.5,Antarctica,Polar,0.0,1,AQ
+-67.5,72.5,Antarctica,Polar,0.0,1,AQ
+-67.5,77.5,Antarctica,Polar,0.0,1,AQ
+-67.5,82.5,Antarctica,Polar,0.0,1,AQ
+-67.5,87.5,Antarctica,Polar,0.0,1,AQ
+-67.5,92.5,Antarctica,Polar,0.0,1,AQ
+-67.5,97.5,Antarctica,Polar,0.0,1,AQ
+-67.5,102.5,Antarctica,Polar,0.0,1,AQ
+-67.5,107.5,Antarctica,Polar,0.0,1,AQ
+-67.5,112.5,Antarctica,Polar,0.0,1,AQ
+-67.5,117.5,Antarctica,Polar,0.0,1,AQ
+-67.5,122.5,Antarctica,Polar,0.0,1,AQ
+-67.5,127.5,Antarctica,Polar,0.0,1,AQ
+-67.5,132.5,Antarctica,Polar,0.0,1,AQ
+-67.5,137.5,Antarctica,Polar,0.0,1,AQ
+-67.5,142.5,Antarctica,Polar,0.0,1,AQ
+-67.5,147.5,Antarctica,Polar,0.0,1,AQ
+-67.5,152.5,Antarctica,Polar,0.0,1,AQ
+-67.5,157.5,Antarctica,Polar,0.0,1,AQ
+-67.5,162.5,Antarctica,Polar,0.0,1,AQ
+-67.5,167.5,Antarctica,Polar,0.0,1,AQ
+-67.5,172.5,Antarctica,Polar,0.0,1,AQ
+-67.5,177.5,Antarctica,Polar,0.0,1,AQ
+-67.5,182.5,Antarctica,Polar,0.0,1,AQ
+-67.5,187.5,Antarctica,Polar,0.0,1,AQ
+-67.5,192.5,Antarctica,Polar,0.0,1,AQ
+-67.5,197.5,Antarctica,Polar,0.0,1,AQ
+-67.5,202.5,Antarctica,Polar,0.0,1,AQ
+-67.5,207.5,Antarctica,Polar,0.0,1,AQ
+-67.5,212.5,Antarctica,Polar,0.0,1,AQ
+-67.5,217.5,Antarctica,Polar,0.0,1,AQ
+-67.5,222.5,Antarctica,Polar,0.0,1,AQ
+-67.5,227.5,Antarctica,Polar,0.0,1,AQ
+-67.5,232.5,Antarctica,Polar,0.0,1,AQ
+-67.5,237.5,Antarctica,Polar,0.0,1,AQ
+-67.5,242.5,Antarctica,Polar,0.0,1,AQ
+-67.5,247.5,Antarctica,Polar,0.0,1,AQ
+-67.5,252.5,Antarctica,Polar,0.0,1,AQ
+-67.5,257.5,Antarctica,Polar,0.0,1,AQ
+-67.5,262.5,Antarctica,Polar,0.0,1,AQ
+-67.5,267.5,Antarctica,Polar,0.0,1,AQ
+-67.5,272.5,Antarctica,Polar,0.0,1,AQ
+-67.5,277.5,Antarctica,Polar,0.0,1,AQ
+-67.5,282.5,Antarctica,Polar,0.0,1,AQ
+-67.5,287.5,Antarctica,Polar,0.0,1,AQ
+-67.5,292.5,Antarctica,Polar,0.0,1,AQ
+-67.5,297.5,Antarctica,Polar,0.0,1,AQ
+-67.5,302.5,Antarctica,Polar,0.0,1,AQ
+-67.5,307.5,Antarctica,Polar,0.0,1,AQ
+-67.5,312.5,Antarctica,Polar,0.0,1,AQ
+-67.5,317.5,Antarctica,Polar,0.0,1,AQ
+-67.5,322.5,Antarctica,Polar,0.0,1,AQ
+-67.5,327.5,Antarctica,Polar,0.0,1,AQ
+-67.5,332.5,Antarctica,Polar,0.0,1,AQ
+-67.5,337.5,Antarctica,Polar,0.0,1,AQ
+-67.5,342.5,Antarctica,Polar,0.0,1,AQ
+-67.5,347.5,Antarctica,Polar,0.0,1,AQ
+-67.5,352.5,Antarctica,Polar,0.0,1,AQ
+-67.5,357.5,Antarctica,Polar,0.0,1,AQ
+-62.5,2.5,Antarctica,Polar,0.0,1,AQ
+-62.5,7.5,Antarctica,Polar,0.0,1,AQ
+-62.5,12.5,Antarctica,Polar,0.0,1,AQ
+-62.5,17.5,Antarctica,Polar,0.0,1,AQ
+-62.5,22.5,Antarctica,Polar,0.0,1,AQ
+-62.5,27.5,Antarctica,Polar,0.0,1,AQ
+-62.5,32.5,Antarctica,Polar,0.0,1,AQ
+-62.5,37.5,Antarctica,Polar,0.0,1,AQ
+-62.5,42.5,Antarctica,Polar,0.0,1,AQ
+-62.5,47.5,Antarctica,Polar,0.0,1,AQ
+-62.5,52.5,Antarctica,Polar,0.0,1,AQ
+-62.5,57.5,Antarctica,Polar,0.0,1,AQ
+-62.5,62.5,Antarctica,Polar,0.0,1,AQ
+-62.5,67.5,Antarctica,Polar,0.0,1,AQ
+-62.5,72.5,Antarctica,Polar,0.0,1,AQ
+-62.5,77.5,Antarctica,Polar,0.0,1,AQ
+-62.5,82.5,Antarctica,Polar,0.0,1,AQ
+-62.5,87.5,Antarctica,Polar,0.0,1,AQ
+-62.5,92.5,Antarctica,Polar,0.0,1,AQ
+-62.5,97.5,Antarctica,Polar,0.0,1,AQ
+-62.5,102.5,Antarctica,Polar,0.0,1,AQ
+-62.5,107.5,Antarctica,Polar,0.0,1,AQ
+-62.5,112.5,Antarctica,Polar,0.0,1,AQ
+-62.5,117.5,Antarctica,Polar,0.0,1,AQ
+-62.5,122.5,Antarctica,Polar,0.0,1,AQ
+-62.5,127.5,Antarctica,Polar,0.0,1,AQ
+-62.5,132.5,Antarctica,Polar,0.0,1,AQ
+-62.5,137.5,Antarctica,Polar,0.0,1,AQ
+-62.5,142.5,Antarctica,Polar,0.0,1,AQ
+-62.5,147.5,Antarctica,Polar,0.0,1,AQ
+-62.5,152.5,Antarctica,Polar,0.0,1,AQ
+-62.5,157.5,Antarctica,Polar,0.0,1,AQ
+-62.5,162.5,Antarctica,Polar,0.0,1,AQ
+-62.5,167.5,Antarctica,Polar,0.0,1,AQ
+-62.5,172.5,Antarctica,Polar,0.0,1,AQ
+-62.5,177.5,Antarctica,Polar,0.0,1,AQ
+-62.5,182.5,Antarctica,Polar,0.0,1,AQ
+-62.5,187.5,Antarctica,Polar,0.0,1,AQ
+-62.5,192.5,Antarctica,Polar,0.0,1,AQ
+-62.5,197.5,Antarctica,Polar,0.0,1,AQ
+-62.5,202.5,Antarctica,Polar,0.0,1,AQ
+-62.5,207.5,Antarctica,Polar,0.0,1,AQ
+-62.5,212.5,Antarctica,Polar,0.0,1,AQ
+-62.5,217.5,Antarctica,Polar,0.0,1,AQ
+-62.5,222.5,Antarctica,Polar,0.0,1,AQ
+-62.5,227.5,Antarctica,Polar,0.0,1,AQ
+-62.5,232.5,Antarctica,Polar,0.0,1,AQ
+-62.5,237.5,Antarctica,Polar,0.0,1,AQ
+-62.5,242.5,Antarctica,Polar,0.0,1,AQ
+-62.5,247.5,Antarctica,Polar,0.0,1,AQ
+-62.5,252.5,Antarctica,Polar,0.0,1,AQ
+-62.5,257.5,Antarctica,Polar,0.0,1,AQ
+-62.5,262.5,Antarctica,Polar,0.0,1,AQ
+-62.5,267.5,Antarctica,Polar,0.0,1,AQ
+-62.5,272.5,Antarctica,Polar,0.0,1,AQ
+-62.5,277.5,Antarctica,Polar,0.0,1,AQ
+-62.5,282.5,Antarctica,Polar,0.0,1,AQ
+-62.5,287.5,Antarctica,Polar,0.0,1,AQ
+-62.5,292.5,Antarctica,Polar,0.0,1,AQ
+-62.5,297.5,Antarctica,Polar,0.0,1,AQ
+-62.5,302.5,Antarctica,Polar,0.0,1,AQ
+-62.5,307.5,Antarctica,Polar,0.0,1,AQ
+-62.5,312.5,Antarctica,Polar,0.0,1,AQ
+-62.5,317.5,Antarctica,Polar,0.0,1,AQ
+-62.5,322.5,Antarctica,Polar,0.0,1,AQ
+-62.5,327.5,Antarctica,Polar,0.0,1,AQ
+-62.5,332.5,Antarctica,Polar,0.0,1,AQ
+-62.5,337.5,Antarctica,Polar,0.0,1,AQ
+-62.5,342.5,Antarctica,Polar,0.0,1,AQ
+-62.5,347.5,Antarctica,Polar,0.0,1,AQ
+-62.5,352.5,Antarctica,Polar,0.0,1,AQ
+-62.5,357.5,Antarctica,Polar,0.0,1,AQ
+-57.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,12.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,17.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,22.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,27.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,32.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,37.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,42.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,47.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,117.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,122.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,287.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,292.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,297.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-57.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,12.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,17.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,22.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,27.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,32.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,37.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,42.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,47.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,117.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,122.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,287.5,Chile,Land,0.0,0,CL
+-52.5,292.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-52.5,297.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,302.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-52.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,322.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-52.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-52.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,12.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,17.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,22.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,27.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,32.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,37.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,42.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,47.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,117.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,122.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,167.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-47.5,172.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-47.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,287.5,Chile,Land,0.0,0,CL
+-47.5,292.5,Argentina,Land,0.0,0,AR
+-47.5,297.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-47.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,12.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,17.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,22.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,27.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,32.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,37.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,42.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,47.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,117.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,122.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,147.5,Australia,Land,0.0,0,AU
+-42.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,172.5,New Zealand,Land,0.0,0,NZ
+-42.5,177.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-42.5,182.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-42.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,287.5,Chile,Land,0.0,0,CL
+-42.5,292.5,Argentina,Land,0.0,0,AR
+-42.5,297.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-42.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-42.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,12.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,17.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,22.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,27.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,32.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,37.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,42.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,47.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,117.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,122.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,137.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-37.5,142.5,Australia,Land,0.0,0,AU
+-37.5,147.5,Australia,Land,0.0,0,AU
+-37.5,152.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-37.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,172.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-37.5,177.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-37.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,287.5,Chile,Land,0.0,0,CL
+-37.5,292.5,Argentina,Land,0.0,0,AR
+-37.5,297.5,Argentina,Land,0.0,0,AR
+-37.5,302.5,Argentina,Land,0.0,0,AR
+-37.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,347.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-37.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-37.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,12.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,17.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-32.5,22.5,South Africa,Land,0.0,0,ZA
+-32.5,27.5,South Africa,Land,0.0,0,ZA
+-32.5,32.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,37.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,42.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,47.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,117.5,Australia,Land,0.0,0,AU
+-32.5,122.5,Australia,Land,0.0,0,AU
+-32.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,132.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-32.5,137.5,Australia,Land,0.0,0,AU
+-32.5,142.5,Australia,Land,0.0,0,AU
+-32.5,147.5,Australia,Land,0.0,0,AU
+-32.5,152.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-32.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,287.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-32.5,292.5,Argentina,Land,0.0,0,AR
+-32.5,297.5,Argentina,Land,0.0,0,AR
+-32.5,302.5,Uruguay,Land,0.0,0,UY
+-32.5,307.5,Brazil,Land,0.0,0,BR
+-32.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-32.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,12.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,17.5,Namibia,Land,0.0,0,NA
+-27.5,22.5,South Africa,Land,0.0,0,ZA
+-27.5,27.5,South Africa,Land,0.0,0,ZA
+-27.5,32.5,South Africa,Land,0.0,0,ZA
+-27.5,37.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,42.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,47.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,112.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-27.5,117.5,Australia,Land,0.0,0,AU
+-27.5,122.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,137.5,Australia,Land,0.0,0,AU
+-27.5,142.5,Australia,Land,0.0,0,AU
+-27.5,147.5,Australia,Land,0.0,0,AU
+-27.5,152.5,Australia,Land,0.0,0,AU
+-27.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,167.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-27.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,252.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-27.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,287.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-27.5,292.5,Argentina,Land,0.0,0,AR
+-27.5,297.5,Argentina,Land,0.0,0,AR
+-27.5,302.5,Argentina,Land,0.0,0,AR
+-27.5,307.5,Brazil,Land,0.0,0,BR
+-27.5,312.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-27.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-27.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,12.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-22.5,17.5,Namibia,Land,0.0,0,NA
+-22.5,22.5,Botswana,Land,0.0,0,BW
+-22.5,27.5,Botswana,Land,0.0,0,BW
+-22.5,32.5,South Africa,Land,0.0,0,ZA
+-22.5,37.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,42.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-22.5,47.5,Madagascar,Land,0.0,0,MG
+-22.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,57.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-22.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,117.5,Australia,Land,0.0,0,AU
+-22.5,122.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,132.5,Australia,Land,0.0,0,AU
+-22.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,142.5,Australia,Land,0.0,0,AU
+-22.5,147.5,Australia,Land,0.0,0,AU
+-22.5,152.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-22.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,167.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-22.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,207.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-22.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,287.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-22.5,292.5,Chile,Land,0.0,0,CL
+-22.5,297.5,Argentina,Land,0.0,0,AR
+-22.5,302.5,Brazil,Land,0.0,0,BR
+-22.5,307.5,Brazil,Land,0.0,0,BR
+-22.5,312.5,Brazil,Land,0.0,0,BR
+-22.5,317.5,Brazil,Land,0.0,0,BR
+-22.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-22.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,12.5,Namibia,Land,0.0,0,NA
+-17.5,17.5,Namibia,Land,0.0,0,NA
+-17.5,22.5,Namibia,Land,0.0,0,NA
+-17.5,27.5,Zimbabwe,Land,0.0,0,ZW
+-17.5,32.5,Zimbabwe,Land,0.0,0,ZW
+-17.5,37.5,Mozambique,Land,0.0,0,MZ
+-17.5,42.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-17.5,47.5,Madagascar,Land,0.0,0,MG
+-17.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,117.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,122.5,Australia,Land,0.0,0,AU
+-17.5,127.5,Australia,Land,0.0,0,AU
+-17.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,147.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-17.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,167.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-17.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,177.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-17.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,187.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-17.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,207.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-17.5,212.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-17.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,287.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-17.5,292.5,"Bolivia, Plurinational State of",Land,0.0,0,BO
+-17.5,297.5,"Bolivia, Plurinational State of",Land,0.0,0,BO
+-17.5,302.5,"Bolivia, Plurinational State of",Land,0.0,0,BO
+-17.5,307.5,Brazil,Land,0.0,0,BR
+-17.5,312.5,Brazil,Land,0.0,0,BR
+-17.5,317.5,Brazil,Land,0.0,0,BR
+-17.5,322.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-17.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-17.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,12.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,17.5,Angola,Land,0.0,0,AO
+-12.5,22.5,Zambia,Land,0.0,0,ZM
+-12.5,27.5,Zambia,Land,0.0,0,ZM
+-12.5,32.5,Zambia,Land,0.0,0,ZM
+-12.5,37.5,"Tanzania, United Republic of",Land,0.0,0,TZ
+-12.5,42.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,47.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,97.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,107.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,117.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,132.5,Australia,Land,0.0,0,AU
+-12.5,137.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,142.5,Australia,Land,0.0,0,AU
+-12.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,162.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,167.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,177.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,182.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,187.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,282.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,287.5,Peru,Land,0.0,0,PE
+-12.5,292.5,Peru,Land,0.0,0,PE
+-12.5,297.5,Brazil,Land,0.0,0,BR
+-12.5,302.5,Brazil,Land,0.0,0,BR
+-12.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,312.5,Brazil,Land,0.0,0,BR
+-12.5,317.5,Brazil,Land,0.0,0,BR
+-12.5,322.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-12.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-12.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,7.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,12.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,17.5,"Congo, The Democratic Republic of the",Land,0.0,0,CD
+-7.5,22.5,"Congo, The Democratic Republic of the",Land,0.0,0,CD
+-7.5,27.5,"Congo, The Democratic Republic of the",Land,0.0,0,CD
+-7.5,32.5,"Tanzania, United Republic of",Land,0.0,0,TZ
+-7.5,37.5,"Tanzania, United Republic of",Land,0.0,0,TZ
+-7.5,42.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,47.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,72.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,97.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,102.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,107.5,Indonesia,Land,0.0,0,ID
+-7.5,112.5,Indonesia,Land,0.0,0,ID
+-7.5,117.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,127.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,132.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,137.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,142.5,Papua New Guinea,Land,0.0,0,PG
+-7.5,147.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,157.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,162.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,177.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,187.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,282.5,Peru,Land,0.0,0,PE
+-7.5,287.5,Brazil,Land,0.0,0,BR
+-7.5,292.5,Brazil,Land,0.0,0,BR
+-7.5,297.5,Brazil,Land,0.0,0,BR
+-7.5,302.5,Brazil,Land,0.0,0,BR
+-7.5,307.5,Brazil,Land,0.0,0,BR
+-7.5,312.5,Brazil,Land,0.0,0,BR
+-7.5,317.5,Brazil,Land,0.0,0,BR
+-7.5,322.5,Brazil,Land,0.0,0,BR
+-7.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,347.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-7.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-7.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,7.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,12.5,Congo,Land,0.0,0,CG
+-2.5,17.5,"Congo, The Democratic Republic of the",Land,0.0,0,CD
+-2.5,22.5,"Congo, The Democratic Republic of the",Land,0.0,0,CD
+-2.5,27.5,"Congo, The Democratic Republic of the",Land,0.0,0,CD
+-2.5,32.5,Lake Victoria,Deep_Lake,0.0,0,LAKE
+-2.5,37.5,Kenya,Land,0.0,0,KE
+-2.5,42.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,47.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,72.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,97.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,102.5,Indonesia,Land,0.0,0,ID
+-2.5,107.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,112.5,Indonesia,Land,0.0,0,ID
+-2.5,117.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,127.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,132.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,137.5,Indonesia,Land,0.0,0,ID
+-2.5,142.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,147.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,152.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,167.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,277.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,282.5,Ecuador,Land,0.0,0,EC
+-2.5,287.5,Peru,Land,0.0,0,PE
+-2.5,292.5,Brazil,Land,0.0,0,BR
+-2.5,297.5,Brazil,Land,0.0,0,BR
+-2.5,302.5,Brazil,Land,0.0,0,BR
+-2.5,307.5,Brazil,Land,0.0,0,BR
+-2.5,312.5,Brazil,Land,0.0,0,BR
+-2.5,317.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,322.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,327.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+-2.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+-2.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,7.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,12.5,Cameroon,Land,0.0,0,CM
+2.5,17.5,Congo,Land,0.0,0,CG
+2.5,22.5,"Congo, The Democratic Republic of the",Land,0.0,0,CD
+2.5,27.5,"Congo, The Democratic Republic of the",Land,0.0,0,CD
+2.5,32.5,Uganda,Land,0.0,0,UG
+2.5,37.5,Kenya,Land,0.0,0,KE
+2.5,42.5,Somalia,Land,0.0,0,SO
+2.5,47.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,72.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,77.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,97.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,102.5,Malaysia,Land,0.0,0,MY
+2.5,107.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,112.5,Malaysia,Land,0.0,0,MY
+2.5,117.5,Indonesia,Land,0.0,0,ID
+2.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,127.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,132.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,172.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,202.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,282.5,Colombia,Land,0.0,0,CO
+2.5,287.5,Colombia,Land,0.0,0,CO
+2.5,292.5,"Venezuela, Bolivarian Republic of",Land,0.0,0,VE
+2.5,297.5,Brazil,Land,0.0,0,BR
+2.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,307.5,French Guiana,Land,0.0,0,GF
+2.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+2.5,352.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+2.5,357.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,2.5,Benin,Land,0.0,0,BJ
+7.5,7.5,Nigeria,Land,0.0,0,NG
+7.5,12.5,Cameroon,Land,0.0,0,CM
+7.5,17.5,Central African Republic,Land,0.0,0,CF
+7.5,22.5,Central African Republic,Land,0.0,0,CF
+7.5,27.5,South Sudan,Land,0.0,0,SS
+7.5,32.5,South Sudan,Land,0.0,0,SS
+7.5,37.5,Ethiopia,Land,0.0,0,ET
+7.5,42.5,Ethiopia,Land,0.0,0,ET
+7.5,47.5,Somalia,Land,0.0,0,SO
+7.5,52.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,72.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,77.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,82.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,97.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,102.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,107.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,117.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,127.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,132.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,137.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,142.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,147.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,152.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,157.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,167.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,172.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,277.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,282.5,Colombia,Land,0.0,0,CO
+7.5,287.5,Colombia,Land,0.0,0,CO
+7.5,292.5,"Venezuela, Bolivarian Republic of",Land,0.0,0,VE
+7.5,297.5,"Venezuela, Bolivarian Republic of",Land,0.0,0,VE
+7.5,302.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,307.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+7.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+7.5,347.5,Sierra Leone,Land,0.0,0,SL
+7.5,352.5,Côte d'Ivoire,Land,0.0,0,CI
+7.5,357.5,Ghana,Land,0.0,0,GH
+12.5,2.5,Niger,Land,0.0,0,NE
+12.5,7.5,Nigeria,Land,0.0,0,NG
+12.5,12.5,Nigeria,Land,0.0,0,NG
+12.5,17.5,Chad,Land,0.0,0,TD
+12.5,22.5,Sudan,Land,0.0,0,SD
+12.5,27.5,Sudan,Land,0.0,0,SD
+12.5,32.5,Sudan,Land,0.0,0,SD
+12.5,37.5,Ethiopia,Land,0.0,0,ET
+12.5,42.5,Djibouti,Land,0.0,0,DJ
+12.5,47.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,52.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,72.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,77.5,India,Land,0.0,0,IN
+12.5,82.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,92.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,97.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,102.5,Thailand,Land,0.0,0,TH
+12.5,107.5,Viet Nam,Land,0.0,0,VN
+12.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,117.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,122.5,Philippines,Land,0.0,0,PH
+12.5,127.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,162.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,167.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,262.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,267.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,272.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,277.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,287.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,292.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,297.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,302.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+12.5,342.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+12.5,347.5,Senegal,Land,0.0,0,SN
+12.5,352.5,Mali,Land,0.0,0,ML
+12.5,357.5,Burkina Faso,Land,0.0,0,BF
+17.5,2.5,Mali,Land,0.0,0,ML
+17.5,7.5,Niger,Land,0.0,0,NE
+17.5,12.5,Niger,Land,0.0,0,NE
+17.5,17.5,Chad,Land,0.0,0,TD
+17.5,22.5,Chad,Land,0.0,0,TD
+17.5,27.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,32.5,Sudan,Land,0.0,0,SD
+17.5,37.5,Sudan,Land,0.0,0,SD
+17.5,42.5,Saudi Arabia,Land,0.0,0,SA
+17.5,47.5,Yemen,Land,0.0,0,YE
+17.5,52.5,Yemen,Land,0.0,0,YE
+17.5,57.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,67.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,72.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,77.5,India,Land,0.0,0,IN
+17.5,82.5,India,Land,0.0,0,IN
+17.5,87.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,92.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,97.5,Myanmar,Land,0.0,0,MM
+17.5,102.5,Thailand,Land,0.0,0,TH
+17.5,107.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,112.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,117.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,257.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,262.5,Mexico,Land,0.0,0,MX
+17.5,267.5,Mexico,Land,0.0,0,MX
+17.5,272.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,277.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,282.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,287.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,292.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,297.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+17.5,337.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,342.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+17.5,347.5,Mauritania,Land,0.0,0,MR
+17.5,352.5,Mauritania,Land,0.0,0,MR
+17.5,357.5,Mali,Land,0.0,0,ML
+22.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,7.5,Algeria,Land,0.0,0,DZ
+22.5,12.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,17.5,Chad,Land,0.0,0,TD
+22.5,22.5,Libya,Land,0.0,0,LY
+22.5,27.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,32.5,Egypt,Land,0.0,0,EG
+22.5,37.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,42.5,Saudi Arabia,Land,0.0,0,SA
+22.5,47.5,Saudi Arabia,Land,0.0,0,SA
+22.5,52.5,United Arab Emirates,Land,0.0,0,AE
+22.5,57.5,Oman,Land,0.0,0,OM
+22.5,62.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,67.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,72.5,India,Land,0.0,0,IN
+22.5,77.5,India,Land,0.0,0,IN
+22.5,82.5,India,Land,0.0,0,IN
+22.5,87.5,India,Land,0.0,0,IN
+22.5,92.5,Bangladesh,Land,0.0,0,BD
+22.5,97.5,Myanmar,Land,0.0,0,MM
+22.5,102.5,Viet Nam,Land,0.0,0,VN
+22.5,107.5,China,Land,0.0,0,CN
+22.5,112.5,China,Land,0.0,0,CN
+22.5,117.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,127.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,202.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,247.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,252.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,257.5,Mexico,Land,0.0,0,MX
+22.5,262.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,272.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,277.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,282.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,287.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,292.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,297.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,342.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+22.5,347.5,Mauritania,Land,0.0,0,MR
+22.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+22.5,357.5,Mali,Land,0.0,0,ML
+27.5,2.5,Algeria,Land,0.0,0,DZ
+27.5,7.5,Algeria,Land,0.0,0,DZ
+27.5,12.5,Libya,Land,0.0,0,LY
+27.5,17.5,Libya,Land,0.0,0,LY
+27.5,22.5,Libya,Land,0.0,0,LY
+27.5,27.5,Egypt,Land,0.0,0,EG
+27.5,32.5,Egypt,Land,0.0,0,EG
+27.5,37.5,Saudi Arabia,Land,0.0,0,SA
+27.5,42.5,Saudi Arabia,Land,0.0,0,SA
+27.5,47.5,Saudi Arabia,Land,0.0,0,SA
+27.5,52.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+27.5,57.5,"Iran, Islamic Republic of",Land,0.0,0,IR
+27.5,62.5,"Iran, Islamic Republic of",Land,0.0,0,IR
+27.5,67.5,Pakistan,Land,0.0,0,PK
+27.5,72.5,India,Land,0.0,0,IN
+27.5,77.5,India,Land,0.0,0,IN
+27.5,82.5,India,Land,0.0,0,IN
+27.5,87.5,Nepal,Land,0.0,0,NP
+27.5,92.5,India,Land,0.0,0,IN
+27.5,97.5,China,Land,0.0,0,CN
+27.5,102.5,China,Land,0.0,0,CN
+27.5,107.5,China,Land,0.0,0,CN
+27.5,112.5,China,Land,0.0,0,CN
+27.5,117.5,China,Land,0.0,0,CN
+27.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+27.5,127.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+27.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,242.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,247.5,Mexico,Land,0.0,0,MX
+27.5,252.5,Mexico,Land,0.0,0,MX
+27.5,257.5,Mexico,Land,0.0,0,MX
+27.5,262.5,United States,Land,0.0,0,US
+27.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,277.5,United States,Land,0.0,0,US
+27.5,282.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+27.5,287.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,292.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,297.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+27.5,342.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+27.5,347.5,Morocco,Land,0.0,0,MA
+27.5,352.5,Algeria,Land,0.0,0,DZ
+27.5,357.5,Algeria,Land,0.0,0,DZ
+32.5,2.5,Algeria,Land,0.0,0,DZ
+32.5,7.5,Algeria,Land,0.0,0,DZ
+32.5,12.5,Libya,Land,0.0,0,LY
+32.5,17.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,22.5,Libya,Land,0.0,0,LY
+32.5,27.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,32.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,37.5,Syrian Arab Republic,Land,0.0,0,SY
+32.5,42.5,Iraq,Land,0.0,0,IQ
+32.5,47.5,"Iran, Islamic Republic of",Land,0.0,0,IR
+32.5,52.5,"Iran, Islamic Republic of",Land,0.0,0,IR
+32.5,57.5,"Iran, Islamic Republic of",Land,0.0,0,IR
+32.5,62.5,Afghanistan,Land,0.0,0,AF
+32.5,67.5,Afghanistan,Land,0.0,0,AF
+32.5,72.5,Pakistan,Land,0.0,0,PK
+32.5,77.5,India,Land,0.0,0,IN
+32.5,82.5,China,Land,0.0,0,CN
+32.5,87.5,China,Land,0.0,0,CN
+32.5,92.5,China,Land,0.0,0,CN
+32.5,97.5,China,Land,0.0,0,CN
+32.5,102.5,China,Land,0.0,0,CN
+32.5,107.5,China,Land,0.0,0,CN
+32.5,112.5,China,Land,0.0,0,CN
+32.5,117.5,China,Land,0.0,0,CN
+32.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,127.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,132.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,137.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,142.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,237.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,242.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,247.5,United States,Land,0.0,0,US
+32.5,252.5,United States,Land,0.0,0,US
+32.5,257.5,United States,Land,0.0,0,US
+32.5,262.5,United States,Land,0.0,0,US
+32.5,267.5,United States,Land,0.0,0,US
+32.5,272.5,United States,Land,0.0,0,US
+32.5,277.5,United States,Land,0.0,0,US
+32.5,282.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,287.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,292.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,297.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,342.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+32.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+32.5,352.5,Morocco,Land,0.0,0,MA
+32.5,357.5,Morocco,Land,0.0,0,MA
+37.5,2.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+37.5,7.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+37.5,12.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+37.5,17.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+37.5,22.5,Greece,Land,0.0,0,GR
+37.5,27.5,Türkiye,Land,0.0,0,TR
+37.5,32.5,Türkiye,Land,0.0,0,TR
+37.5,37.5,Türkiye,Land,0.0,0,TR
+37.5,42.5,Türkiye,Land,0.0,0,TR
+37.5,47.5,"Iran, Islamic Republic of",Land,0.0,0,IR
+37.5,52.5,Caspian Sea (South),Deep_Lake,0.0,0,LAKE
+37.5,57.5,"Iran, Islamic Republic of",Land,0.0,0,IR
+37.5,62.5,Turkmenistan,Land,0.0,0,TM
+37.5,67.5,Afghanistan,Land,0.0,0,AF
+37.5,72.5,Afghanistan,Land,0.0,0,AF
+37.5,77.5,China,Land,0.0,0,CN
+37.5,82.5,China,Land,0.0,0,CN
+37.5,87.5,China,Land,0.0,0,CN
+37.5,92.5,China,Land,0.0,0,CN
+37.5,97.5,China,Land,0.0,0,CN
+37.5,102.5,China,Land,0.0,0,CN
+37.5,107.5,China,Land,0.0,0,CN
+37.5,112.5,China,Land,0.0,0,CN
+37.5,117.5,China,Land,0.0,0,CN
+37.5,122.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+37.5,127.5,"Korea, Republic of",Land,0.0,0,KR
+37.5,132.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+37.5,137.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+37.5,142.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+37.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,237.5,United States,Land,0.0,0,US
+37.5,242.5,United States,Land,0.0,0,US
+37.5,247.5,United States,Land,0.0,0,US
+37.5,252.5,United States,Land,0.0,0,US
+37.5,257.5,United States,Land,0.0,0,US
+37.5,262.5,United States,Land,0.0,0,US
+37.5,267.5,United States,Land,0.0,0,US
+37.5,272.5,United States,Land,0.0,0,US
+37.5,277.5,United States,Land,0.0,0,US
+37.5,282.5,United States,Land,0.0,0,US
+37.5,287.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,292.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,297.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,332.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+37.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+37.5,352.5,Portugal,Land,0.0,0,PT
+37.5,357.5,Spain,Land,0.0,0,ES
+42.5,2.5,France,Land,0.0,0,FR
+42.5,7.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+42.5,12.5,Italy,Land,0.0,0,IT
+42.5,17.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+42.5,22.5,Serbia,Land,0.0,0,RS
+42.5,27.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+42.5,32.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+42.5,37.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+42.5,42.5,Georgia,Land,0.0,0,GE
+42.5,47.5,Russian Federation,Land,0.0,0,RU
+42.5,52.5,Caspian Sea,Deep_Lake,0.0,0,LAKE
+42.5,57.5,Uzbekistan,Land,0.0,0,UZ
+42.5,62.5,Uzbekistan,Land,0.0,0,UZ
+42.5,67.5,Kazakhstan,Land,0.0,0,KZ
+42.5,72.5,Kyrgyzstan,Land,0.0,0,KG
+42.5,77.5,Kyrgyzstan,Land,0.0,0,KG
+42.5,82.5,China,Land,0.0,0,CN
+42.5,87.5,China,Land,0.0,0,CN
+42.5,92.5,China,Land,0.0,0,CN
+42.5,97.5,China,Land,0.0,0,CN
+42.5,102.5,Mongolia,Land,0.0,0,MN
+42.5,107.5,Mongolia,Land,0.0,0,MN
+42.5,112.5,China,Land,0.0,0,CN
+42.5,117.5,China,Land,0.0,0,CN
+42.5,122.5,China,Land,0.0,0,CN
+42.5,127.5,China,Land,0.0,0,CN
+42.5,132.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+42.5,137.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,142.5,Japan,Land,0.0,0,JP
+42.5,147.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+42.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,237.5,United States,Land,0.0,0,US
+42.5,242.5,United States,Land,0.0,0,US
+42.5,247.5,United States,Land,0.0,0,US
+42.5,252.5,United States,Land,0.0,0,US
+42.5,257.5,United States,Land,0.0,0,US
+42.5,262.5,United States,Land,0.0,0,US
+42.5,267.5,United States,Land,0.0,0,US
+42.5,272.5,Lake Michigan,Deep_Lake,0.0,0,LAKE
+42.5,277.5,Canada,Land,0.0,0,CA
+42.5,282.5,Lake Erie/Ontario,Deep_Lake,0.0,0,LAKE
+42.5,287.5,United States,Land,0.0,0,US
+42.5,292.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+42.5,297.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+42.5,352.5,Spain,Land,0.0,0,ES
+42.5,357.5,Spain,Land,0.0,0,ES
+47.5,2.5,France,Land,0.0,0,FR
+47.5,7.5,France,Land,0.0,0,FR
+47.5,12.5,Austria,Land,0.0,0,AT
+47.5,17.5,Hungary,Land,0.0,0,HU
+47.5,22.5,Romania,Land,0.0,0,RO
+47.5,27.5,Romania,Land,0.0,0,RO
+47.5,32.5,Ukraine,Land,0.0,0,UA
+47.5,37.5,Ukraine,Land,0.0,0,UA
+47.5,42.5,Russian Federation,Land,0.0,0,RU
+47.5,47.5,Russian Federation,Land,0.0,0,RU
+47.5,52.5,Kazakhstan,Land,0.0,0,KZ
+47.5,57.5,Kazakhstan,Land,0.0,0,KZ
+47.5,62.5,Kazakhstan,Land,0.0,0,KZ
+47.5,67.5,Kazakhstan,Land,0.0,0,KZ
+47.5,72.5,Kazakhstan,Land,0.0,0,KZ
+47.5,77.5,Kazakhstan,Land,0.0,0,KZ
+47.5,82.5,China,Land,0.0,0,CN
+47.5,87.5,China,Land,0.0,0,CN
+47.5,92.5,Mongolia,Land,0.0,0,MN
+47.5,97.5,Mongolia,Land,0.0,0,MN
+47.5,102.5,Mongolia,Land,0.0,0,MN
+47.5,107.5,Mongolia,Land,0.0,0,MN
+47.5,112.5,Mongolia,Land,0.0,0,MN
+47.5,117.5,China,Land,0.0,0,CN
+47.5,122.5,China,Land,0.0,0,CN
+47.5,127.5,China,Land,0.0,0,CN
+47.5,132.5,Russian Federation,Land,0.0,0,RU
+47.5,137.5,Russian Federation,Land,0.0,0,RU
+47.5,142.5,Russian Federation,Land,0.0,0,RU
+47.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,157.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,232.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+47.5,237.5,United States,Land,0.0,0,US
+47.5,242.5,United States,Land,0.0,0,US
+47.5,247.5,United States,Land,0.0,0,US
+47.5,252.5,United States,Land,0.0,0,US
+47.5,257.5,United States,Land,0.0,0,US
+47.5,262.5,United States,Land,0.0,0,US
+47.5,267.5,United States,Land,0.0,0,US
+47.5,272.5,Lake Superior,Deep_Lake,0.0,0,LAKE
+47.5,277.5,Lake Huron,Deep_Lake,0.0,0,LAKE
+47.5,282.5,Canada,Land,0.0,0,CA
+47.5,287.5,Canada,Land,0.0,0,CA
+47.5,292.5,Canada,Land,0.0,0,CA
+47.5,297.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+47.5,302.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+47.5,307.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+47.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,352.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+47.5,357.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+52.5,2.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+52.5,7.5,Germany,Land,0.0,0,DE
+52.5,12.5,Germany,Land,0.0,0,DE
+52.5,17.5,Poland,Land,0.0,0,PL
+52.5,22.5,Poland,Land,0.0,0,PL
+52.5,27.5,Belarus,Land,0.0,0,BY
+52.5,32.5,Russian Federation,Land,0.0,0,RU
+52.5,37.5,Russian Federation,Land,0.0,0,RU
+52.5,42.5,Russian Federation,Land,0.0,0,RU
+52.5,47.5,Russian Federation,Land,0.0,0,RU
+52.5,52.5,Russian Federation,Land,0.0,0,RU
+52.5,57.5,Russian Federation,Land,0.0,0,RU
+52.5,62.5,Kazakhstan,Land,0.0,0,KZ
+52.5,67.5,Kazakhstan,Land,0.0,0,KZ
+52.5,72.5,Kazakhstan,Land,0.0,0,KZ
+52.5,77.5,Kazakhstan,Land,0.0,0,KZ
+52.5,82.5,Russian Federation,Land,0.0,0,RU
+52.5,87.5,Russian Federation,Land,0.0,0,RU
+52.5,92.5,Russian Federation,Land,0.0,0,RU
+52.5,97.5,Russian Federation,Land,0.0,0,RU
+52.5,102.5,Russian Federation,Land,0.0,0,RU
+52.5,107.5,Lake Baikal,Deep_Lake,0.0,0,LAKE
+52.5,112.5,Russian Federation,Land,0.0,0,RU
+52.5,117.5,Russian Federation,Land,0.0,0,RU
+52.5,122.5,China,Land,0.0,0,CN
+52.5,127.5,Russian Federation,Land,0.0,0,RU
+52.5,132.5,Russian Federation,Land,0.0,0,RU
+52.5,137.5,Russian Federation,Land,0.0,0,RU
+52.5,142.5,Russian Federation,Land,0.0,0,RU
+52.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,152.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,157.5,Russian Federation,Land,0.0,0,RU
+52.5,162.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,192.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+52.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,202.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,207.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,222.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,227.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,232.5,Canada,Land,0.0,0,CA
+52.5,237.5,Canada,Land,0.0,0,CA
+52.5,242.5,Canada,Land,0.0,0,CA
+52.5,247.5,Canada,Land,0.0,0,CA
+52.5,252.5,Canada,Land,0.0,0,CA
+52.5,257.5,Canada,Land,0.0,0,CA
+52.5,262.5,Canada,Land,0.0,0,CA
+52.5,267.5,Canada,Land,0.0,0,CA
+52.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,287.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,292.5,Canada,Land,0.0,0,CA
+52.5,297.5,Canada,Land,0.0,0,CA
+52.5,302.5,Canada,Land,0.0,0,CA
+52.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+52.5,347.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+52.5,352.5,Ireland,Land,0.0,0,IE
+52.5,357.5,United Kingdom,Land,0.0,0,GB
+57.5,2.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,7.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+57.5,12.5,Sweden,Land,0.0,0,SE
+57.5,17.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+57.5,22.5,Latvia,Land,0.0,0,LV
+57.5,27.5,Russian Federation,Land,0.0,0,RU
+57.5,32.5,Russian Federation,Land,0.0,0,RU
+57.5,37.5,Russian Federation,Land,0.0,0,RU
+57.5,42.5,Russian Federation,Land,0.0,0,RU
+57.5,47.5,Russian Federation,Land,0.0,0,RU
+57.5,52.5,Russian Federation,Land,0.0,0,RU
+57.5,57.5,Russian Federation,Land,0.0,0,RU
+57.5,62.5,Russian Federation,Land,0.0,0,RU
+57.5,67.5,Russian Federation,Land,0.0,0,RU
+57.5,72.5,Russian Federation,Land,0.0,0,RU
+57.5,77.5,Russian Federation,Land,0.0,0,RU
+57.5,82.5,Russian Federation,Land,0.0,0,RU
+57.5,87.5,Russian Federation,Land,0.0,0,RU
+57.5,92.5,Russian Federation,Land,0.0,0,RU
+57.5,97.5,Russian Federation,Land,0.0,0,RU
+57.5,102.5,Russian Federation,Land,0.0,0,RU
+57.5,107.5,Russian Federation,Land,0.0,0,RU
+57.5,112.5,Russian Federation,Land,0.0,0,RU
+57.5,117.5,Russian Federation,Land,0.0,0,RU
+57.5,122.5,Russian Federation,Land,0.0,0,RU
+57.5,127.5,Russian Federation,Land,0.0,0,RU
+57.5,132.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,137.5,Russian Federation,Land,0.0,0,RU
+57.5,142.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+57.5,147.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,152.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+57.5,157.5,Russian Federation,Land,0.0,0,RU
+57.5,162.5,Russian Federation,Land,0.0,0,RU
+57.5,167.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,172.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,177.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,182.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,187.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,192.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,197.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,202.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+57.5,207.5,United States,Land,0.0,0,US
+57.5,212.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,217.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,222.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+57.5,227.5,United States,Land,0.0,0,US
+57.5,232.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,237.5,Canada,Land,0.0,0,CA
+57.5,242.5,Canada,Land,0.0,0,CA
+57.5,247.5,Canada,Land,0.0,0,CA
+57.5,252.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,257.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,262.5,Canada,Land,0.0,0,CA
+57.5,267.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,272.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,277.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,282.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,287.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,292.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,297.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,302.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,307.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,312.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,317.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,322.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,327.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,332.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,337.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,342.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,347.5,Open Ocean,Deep_Ocean,0.0,0,N/A
+57.5,352.5,Oceanic Shelf,Coastal_Ocean,0.0,0,N/A
+57.5,357.5,United Kingdom,Land,0.0,0,GB
+62.5,2.5,Arctic_Region,Polar,0.0,1,AR
+62.5,7.5,Arctic_Region,Polar,0.0,1,AR
+62.5,12.5,Arctic_Region,Polar,0.0,1,AR
+62.5,17.5,Arctic_Region,Polar,0.0,1,AR
+62.5,22.5,Arctic_Region,Polar,0.0,1,AR
+62.5,27.5,Arctic_Region,Polar,0.0,1,AR
+62.5,32.5,Arctic_Region,Polar,0.0,1,AR
+62.5,37.5,Arctic_Region,Polar,0.0,1,AR
+62.5,42.5,Arctic_Region,Polar,0.0,1,AR
+62.5,47.5,Arctic_Region,Polar,0.0,1,AR
+62.5,52.5,Arctic_Region,Polar,0.0,1,AR
+62.5,57.5,Arctic_Region,Polar,0.0,1,AR
+62.5,62.5,Arctic_Region,Polar,0.0,1,AR
+62.5,67.5,Arctic_Region,Polar,0.0,1,AR
+62.5,72.5,Arctic_Region,Polar,0.0,1,AR
+62.5,77.5,Arctic_Region,Polar,0.0,1,AR
+62.5,82.5,Arctic_Region,Polar,0.0,1,AR
+62.5,87.5,Arctic_Region,Polar,0.0,1,AR
+62.5,92.5,Arctic_Region,Polar,0.0,1,AR
+62.5,97.5,Arctic_Region,Polar,0.0,1,AR
+62.5,102.5,Arctic_Region,Polar,0.0,1,AR
+62.5,107.5,Arctic_Region,Polar,0.0,1,AR
+62.5,112.5,Arctic_Region,Polar,0.0,1,AR
+62.5,117.5,Arctic_Region,Polar,0.0,1,AR
+62.5,122.5,Arctic_Region,Polar,0.0,1,AR
+62.5,127.5,Arctic_Region,Polar,0.0,1,AR
+62.5,132.5,Arctic_Region,Polar,0.0,1,AR
+62.5,137.5,Arctic_Region,Polar,0.0,1,AR
+62.5,142.5,Arctic_Region,Polar,0.0,1,AR
+62.5,147.5,Arctic_Region,Polar,0.0,1,AR
+62.5,152.5,Arctic_Region,Polar,0.0,1,AR
+62.5,157.5,Arctic_Region,Polar,0.0,1,AR
+62.5,162.5,Arctic_Region,Polar,0.0,1,AR
+62.5,167.5,Arctic_Region,Polar,0.0,1,AR
+62.5,172.5,Arctic_Region,Polar,0.0,1,AR
+62.5,177.5,Arctic_Region,Polar,0.0,1,AR
+62.5,182.5,Arctic_Region,Polar,0.0,1,AR
+62.5,187.5,Arctic_Region,Polar,0.0,1,AR
+62.5,192.5,Arctic_Region,Polar,0.0,1,AR
+62.5,197.5,Arctic_Region,Polar,0.0,1,AR
+62.5,202.5,Arctic_Region,Polar,0.0,1,AR
+62.5,207.5,Arctic_Region,Polar,0.0,1,AR
+62.5,212.5,Arctic_Region,Polar,0.0,1,AR
+62.5,217.5,Arctic_Region,Polar,0.0,1,AR
+62.5,222.5,Arctic_Region,Polar,0.0,1,AR
+62.5,227.5,Arctic_Region,Polar,0.0,1,AR
+62.5,232.5,Arctic_Region,Polar,0.0,1,AR
+62.5,237.5,Arctic_Region,Polar,0.0,1,AR
+62.5,242.5,Arctic_Region,Polar,0.0,1,AR
+62.5,247.5,Arctic_Region,Polar,0.0,1,AR
+62.5,252.5,Arctic_Region,Polar,0.0,1,AR
+62.5,257.5,Arctic_Region,Polar,0.0,1,AR
+62.5,262.5,Arctic_Region,Polar,0.0,1,AR
+62.5,267.5,Arctic_Region,Polar,0.0,1,AR
+62.5,272.5,Arctic_Region,Polar,0.0,1,AR
+62.5,277.5,Arctic_Region,Polar,0.0,1,AR
+62.5,282.5,Arctic_Region,Polar,0.0,1,AR
+62.5,287.5,Arctic_Region,Polar,0.0,1,AR
+62.5,292.5,Arctic_Region,Polar,0.0,1,AR
+62.5,297.5,Arctic_Region,Polar,0.0,1,AR
+62.5,302.5,Arctic_Region,Polar,0.0,1,AR
+62.5,307.5,Arctic_Region,Polar,0.0,1,AR
+62.5,312.5,Arctic_Region,Polar,0.0,1,AR
+62.5,317.5,Arctic_Region,Polar,0.0,1,AR
+62.5,322.5,Arctic_Region,Polar,0.0,1,AR
+62.5,327.5,Arctic_Region,Polar,0.0,1,AR
+62.5,332.5,Arctic_Region,Polar,0.0,1,AR
+62.5,337.5,Arctic_Region,Polar,0.0,1,AR
+62.5,342.5,Arctic_Region,Polar,0.0,1,AR
+62.5,347.5,Arctic_Region,Polar,0.0,1,AR
+62.5,352.5,Arctic_Region,Polar,0.0,1,AR
+62.5,357.5,Arctic_Region,Polar,0.0,1,AR
+67.5,2.5,Arctic_Region,Polar,0.0,1,AR
+67.5,7.5,Arctic_Region,Polar,0.0,1,AR
+67.5,12.5,Arctic_Region,Polar,0.0,1,AR
+67.5,17.5,Arctic_Region,Polar,0.0,1,AR
+67.5,22.5,Arctic_Region,Polar,0.0,1,AR
+67.5,27.5,Arctic_Region,Polar,0.0,1,AR
+67.5,32.5,Arctic_Region,Polar,0.0,1,AR
+67.5,37.5,Arctic_Region,Polar,0.0,1,AR
+67.5,42.5,Arctic_Region,Polar,0.0,1,AR
+67.5,47.5,Arctic_Region,Polar,0.0,1,AR
+67.5,52.5,Arctic_Region,Polar,0.0,1,AR
+67.5,57.5,Arctic_Region,Polar,0.0,1,AR
+67.5,62.5,Arctic_Region,Polar,0.0,1,AR
+67.5,67.5,Arctic_Region,Polar,0.0,1,AR
+67.5,72.5,Arctic_Region,Polar,0.0,1,AR
+67.5,77.5,Arctic_Region,Polar,0.0,1,AR
+67.5,82.5,Arctic_Region,Polar,0.0,1,AR
+67.5,87.5,Arctic_Region,Polar,0.0,1,AR
+67.5,92.5,Arctic_Region,Polar,0.0,1,AR
+67.5,97.5,Arctic_Region,Polar,0.0,1,AR
+67.5,102.5,Arctic_Region,Polar,0.0,1,AR
+67.5,107.5,Arctic_Region,Polar,0.0,1,AR
+67.5,112.5,Arctic_Region,Polar,0.0,1,AR
+67.5,117.5,Arctic_Region,Polar,0.0,1,AR
+67.5,122.5,Arctic_Region,Polar,0.0,1,AR
+67.5,127.5,Arctic_Region,Polar,0.0,1,AR
+67.5,132.5,Arctic_Region,Polar,0.0,1,AR
+67.5,137.5,Arctic_Region,Polar,0.0,1,AR
+67.5,142.5,Arctic_Region,Polar,0.0,1,AR
+67.5,147.5,Arctic_Region,Polar,0.0,1,AR
+67.5,152.5,Arctic_Region,Polar,0.0,1,AR
+67.5,157.5,Arctic_Region,Polar,0.0,1,AR
+67.5,162.5,Arctic_Region,Polar,0.0,1,AR
+67.5,167.5,Arctic_Region,Polar,0.0,1,AR
+67.5,172.5,Arctic_Region,Polar,0.0,1,AR
+67.5,177.5,Arctic_Region,Polar,0.0,1,AR
+67.5,182.5,Arctic_Region,Polar,0.0,1,AR
+67.5,187.5,Arctic_Region,Polar,0.0,1,AR
+67.5,192.5,Arctic_Region,Polar,0.0,1,AR
+67.5,197.5,Arctic_Region,Polar,0.0,1,AR
+67.5,202.5,Arctic_Region,Polar,0.0,1,AR
+67.5,207.5,Arctic_Region,Polar,0.0,1,AR
+67.5,212.5,Arctic_Region,Polar,0.0,1,AR
+67.5,217.5,Arctic_Region,Polar,0.0,1,AR
+67.5,222.5,Arctic_Region,Polar,0.0,1,AR
+67.5,227.5,Arctic_Region,Polar,0.0,1,AR
+67.5,232.5,Arctic_Region,Polar,0.0,1,AR
+67.5,237.5,Arctic_Region,Polar,0.0,1,AR
+67.5,242.5,Arctic_Region,Polar,0.0,1,AR
+67.5,247.5,Arctic_Region,Polar,0.0,1,AR
+67.5,252.5,Arctic_Region,Polar,0.0,1,AR
+67.5,257.5,Arctic_Region,Polar,0.0,1,AR
+67.5,262.5,Arctic_Region,Polar,0.0,1,AR
+67.5,267.5,Arctic_Region,Polar,0.0,1,AR
+67.5,272.5,Arctic_Region,Polar,0.0,1,AR
+67.5,277.5,Arctic_Region,Polar,0.0,1,AR
+67.5,282.5,Arctic_Region,Polar,0.0,1,AR
+67.5,287.5,Arctic_Region,Polar,0.0,1,AR
+67.5,292.5,Arctic_Region,Polar,0.0,1,AR
+67.5,297.5,Arctic_Region,Polar,0.0,1,AR
+67.5,302.5,Arctic_Region,Polar,0.0,1,AR
+67.5,307.5,Arctic_Region,Polar,0.0,1,AR
+67.5,312.5,Arctic_Region,Polar,0.0,1,AR
+67.5,317.5,Arctic_Region,Polar,0.0,1,AR
+67.5,322.5,Arctic_Region,Polar,0.0,1,AR
+67.5,327.5,Arctic_Region,Polar,0.0,1,AR
+67.5,332.5,Arctic_Region,Polar,0.0,1,AR
+67.5,337.5,Arctic_Region,Polar,0.0,1,AR
+67.5,342.5,Arctic_Region,Polar,0.0,1,AR
+67.5,347.5,Arctic_Region,Polar,0.0,1,AR
+67.5,352.5,Arctic_Region,Polar,0.0,1,AR
+67.5,357.5,Arctic_Region,Polar,0.0,1,AR
+72.5,2.5,Arctic_Region,Polar,0.0,1,AR
+72.5,7.5,Arctic_Region,Polar,0.0,1,AR
+72.5,12.5,Arctic_Region,Polar,0.0,1,AR
+72.5,17.5,Arctic_Region,Polar,0.0,1,AR
+72.5,22.5,Arctic_Region,Polar,0.0,1,AR
+72.5,27.5,Arctic_Region,Polar,0.0,1,AR
+72.5,32.5,Arctic_Region,Polar,0.0,1,AR
+72.5,37.5,Arctic_Region,Polar,0.0,1,AR
+72.5,42.5,Arctic_Region,Polar,0.0,1,AR
+72.5,47.5,Arctic_Region,Polar,0.0,1,AR
+72.5,52.5,Arctic_Region,Polar,0.0,1,AR
+72.5,57.5,Arctic_Region,Polar,0.0,1,AR
+72.5,62.5,Arctic_Region,Polar,0.0,1,AR
+72.5,67.5,Arctic_Region,Polar,0.0,1,AR
+72.5,72.5,Arctic_Region,Polar,0.0,1,AR
+72.5,77.5,Arctic_Region,Polar,0.0,1,AR
+72.5,82.5,Arctic_Region,Polar,0.0,1,AR
+72.5,87.5,Arctic_Region,Polar,0.0,1,AR
+72.5,92.5,Arctic_Region,Polar,0.0,1,AR
+72.5,97.5,Arctic_Region,Polar,0.0,1,AR
+72.5,102.5,Arctic_Region,Polar,0.0,1,AR
+72.5,107.5,Arctic_Region,Polar,0.0,1,AR
+72.5,112.5,Arctic_Region,Polar,0.0,1,AR
+72.5,117.5,Arctic_Region,Polar,0.0,1,AR
+72.5,122.5,Arctic_Region,Polar,0.0,1,AR
+72.5,127.5,Arctic_Region,Polar,0.0,1,AR
+72.5,132.5,Arctic_Region,Polar,0.0,1,AR
+72.5,137.5,Arctic_Region,Polar,0.0,1,AR
+72.5,142.5,Arctic_Region,Polar,0.0,1,AR
+72.5,147.5,Arctic_Region,Polar,0.0,1,AR
+72.5,152.5,Arctic_Region,Polar,0.0,1,AR
+72.5,157.5,Arctic_Region,Polar,0.0,1,AR
+72.5,162.5,Arctic_Region,Polar,0.0,1,AR
+72.5,167.5,Arctic_Region,Polar,0.0,1,AR
+72.5,172.5,Arctic_Region,Polar,0.0,1,AR
+72.5,177.5,Arctic_Region,Polar,0.0,1,AR
+72.5,182.5,Arctic_Region,Polar,0.0,1,AR
+72.5,187.5,Arctic_Region,Polar,0.0,1,AR
+72.5,192.5,Arctic_Region,Polar,0.0,1,AR
+72.5,197.5,Arctic_Region,Polar,0.0,1,AR
+72.5,202.5,Arctic_Region,Polar,0.0,1,AR
+72.5,207.5,Arctic_Region,Polar,0.0,1,AR
+72.5,212.5,Arctic_Region,Polar,0.0,1,AR
+72.5,217.5,Arctic_Region,Polar,0.0,1,AR
+72.5,222.5,Arctic_Region,Polar,0.0,1,AR
+72.5,227.5,Arctic_Region,Polar,0.0,1,AR
+72.5,232.5,Arctic_Region,Polar,0.0,1,AR
+72.5,237.5,Arctic_Region,Polar,0.0,1,AR
+72.5,242.5,Arctic_Region,Polar,0.0,1,AR
+72.5,247.5,Arctic_Region,Polar,0.0,1,AR
+72.5,252.5,Arctic_Region,Polar,0.0,1,AR
+72.5,257.5,Arctic_Region,Polar,0.0,1,AR
+72.5,262.5,Arctic_Region,Polar,0.0,1,AR
+72.5,267.5,Arctic_Region,Polar,0.0,1,AR
+72.5,272.5,Arctic_Region,Polar,0.0,1,AR
+72.5,277.5,Arctic_Region,Polar,0.0,1,AR
+72.5,282.5,Arctic_Region,Polar,0.0,1,AR
+72.5,287.5,Arctic_Region,Polar,0.0,1,AR
+72.5,292.5,Arctic_Region,Polar,0.0,1,AR
+72.5,297.5,Arctic_Region,Polar,0.0,1,AR
+72.5,302.5,Arctic_Region,Polar,0.0,1,AR
+72.5,307.5,Arctic_Region,Polar,0.0,1,AR
+72.5,312.5,Arctic_Region,Polar,0.0,1,AR
+72.5,317.5,Arctic_Region,Polar,0.0,1,AR
+72.5,322.5,Arctic_Region,Polar,0.0,1,AR
+72.5,327.5,Arctic_Region,Polar,0.0,1,AR
+72.5,332.5,Arctic_Region,Polar,0.0,1,AR
+72.5,337.5,Arctic_Region,Polar,0.0,1,AR
+72.5,342.5,Arctic_Region,Polar,0.0,1,AR
+72.5,347.5,Arctic_Region,Polar,0.0,1,AR
+72.5,352.5,Arctic_Region,Polar,0.0,1,AR
+72.5,357.5,Arctic_Region,Polar,0.0,1,AR
+77.5,2.5,Arctic_Region,Polar,0.0,1,AR
+77.5,7.5,Arctic_Region,Polar,0.0,1,AR
+77.5,12.5,Arctic_Region,Polar,0.0,1,AR
+77.5,17.5,Arctic_Region,Polar,0.0,1,AR
+77.5,22.5,Arctic_Region,Polar,0.0,1,AR
+77.5,27.5,Arctic_Region,Polar,0.0,1,AR
+77.5,32.5,Arctic_Region,Polar,0.0,1,AR
+77.5,37.5,Arctic_Region,Polar,0.0,1,AR
+77.5,42.5,Arctic_Region,Polar,0.0,1,AR
+77.5,47.5,Arctic_Region,Polar,0.0,1,AR
+77.5,52.5,Arctic_Region,Polar,0.0,1,AR
+77.5,57.5,Arctic_Region,Polar,0.0,1,AR
+77.5,62.5,Arctic_Region,Polar,0.0,1,AR
+77.5,67.5,Arctic_Region,Polar,0.0,1,AR
+77.5,72.5,Arctic_Region,Polar,0.0,1,AR
+77.5,77.5,Arctic_Region,Polar,0.0,1,AR
+77.5,82.5,Arctic_Region,Polar,0.0,1,AR
+77.5,87.5,Arctic_Region,Polar,0.0,1,AR
+77.5,92.5,Arctic_Region,Polar,0.0,1,AR
+77.5,97.5,Arctic_Region,Polar,0.0,1,AR
+77.5,102.5,Arctic_Region,Polar,0.0,1,AR
+77.5,107.5,Arctic_Region,Polar,0.0,1,AR
+77.5,112.5,Arctic_Region,Polar,0.0,1,AR
+77.5,117.5,Arctic_Region,Polar,0.0,1,AR
+77.5,122.5,Arctic_Region,Polar,0.0,1,AR
+77.5,127.5,Arctic_Region,Polar,0.0,1,AR
+77.5,132.5,Arctic_Region,Polar,0.0,1,AR
+77.5,137.5,Arctic_Region,Polar,0.0,1,AR
+77.5,142.5,Arctic_Region,Polar,0.0,1,AR
+77.5,147.5,Arctic_Region,Polar,0.0,1,AR
+77.5,152.5,Arctic_Region,Polar,0.0,1,AR
+77.5,157.5,Arctic_Region,Polar,0.0,1,AR
+77.5,162.5,Arctic_Region,Polar,0.0,1,AR
+77.5,167.5,Arctic_Region,Polar,0.0,1,AR
+77.5,172.5,Arctic_Region,Polar,0.0,1,AR
+77.5,177.5,Arctic_Region,Polar,0.0,1,AR
+77.5,182.5,Arctic_Region,Polar,0.0,1,AR
+77.5,187.5,Arctic_Region,Polar,0.0,1,AR
+77.5,192.5,Arctic_Region,Polar,0.0,1,AR
+77.5,197.5,Arctic_Region,Polar,0.0,1,AR
+77.5,202.5,Arctic_Region,Polar,0.0,1,AR
+77.5,207.5,Arctic_Region,Polar,0.0,1,AR
+77.5,212.5,Arctic_Region,Polar,0.0,1,AR
+77.5,217.5,Arctic_Region,Polar,0.0,1,AR
+77.5,222.5,Arctic_Region,Polar,0.0,1,AR
+77.5,227.5,Arctic_Region,Polar,0.0,1,AR
+77.5,232.5,Arctic_Region,Polar,0.0,1,AR
+77.5,237.5,Arctic_Region,Polar,0.0,1,AR
+77.5,242.5,Arctic_Region,Polar,0.0,1,AR
+77.5,247.5,Arctic_Region,Polar,0.0,1,AR
+77.5,252.5,Arctic_Region,Polar,0.0,1,AR
+77.5,257.5,Arctic_Region,Polar,0.0,1,AR
+77.5,262.5,Arctic_Region,Polar,0.0,1,AR
+77.5,267.5,Arctic_Region,Polar,0.0,1,AR
+77.5,272.5,Arctic_Region,Polar,0.0,1,AR
+77.5,277.5,Arctic_Region,Polar,0.0,1,AR
+77.5,282.5,Arctic_Region,Polar,0.0,1,AR
+77.5,287.5,Arctic_Region,Polar,0.0,1,AR
+77.5,292.5,Arctic_Region,Polar,0.0,1,AR
+77.5,297.5,Arctic_Region,Polar,0.0,1,AR
+77.5,302.5,Arctic_Region,Polar,0.0,1,AR
+77.5,307.5,Arctic_Region,Polar,0.0,1,AR
+77.5,312.5,Arctic_Region,Polar,0.0,1,AR
+77.5,317.5,Arctic_Region,Polar,0.0,1,AR
+77.5,322.5,Arctic_Region,Polar,0.0,1,AR
+77.5,327.5,Arctic_Region,Polar,0.0,1,AR
+77.5,332.5,Arctic_Region,Polar,0.0,1,AR
+77.5,337.5,Arctic_Region,Polar,0.0,1,AR
+77.5,342.5,Arctic_Region,Polar,0.0,1,AR
+77.5,347.5,Arctic_Region,Polar,0.0,1,AR
+77.5,352.5,Arctic_Region,Polar,0.0,1,AR
+77.5,357.5,Arctic_Region,Polar,0.0,1,AR
+82.5,2.5,Arctic_Region,Polar,0.0,1,AR
+82.5,7.5,Arctic_Region,Polar,0.0,1,AR
+82.5,12.5,Arctic_Region,Polar,0.0,1,AR
+82.5,17.5,Arctic_Region,Polar,0.0,1,AR
+82.5,22.5,Arctic_Region,Polar,0.0,1,AR
+82.5,27.5,Arctic_Region,Polar,0.0,1,AR
+82.5,32.5,Arctic_Region,Polar,0.0,1,AR
+82.5,37.5,Arctic_Region,Polar,0.0,1,AR
+82.5,42.5,Arctic_Region,Polar,0.0,1,AR
+82.5,47.5,Arctic_Region,Polar,0.0,1,AR
+82.5,52.5,Arctic_Region,Polar,0.0,1,AR
+82.5,57.5,Arctic_Region,Polar,0.0,1,AR
+82.5,62.5,Arctic_Region,Polar,0.0,1,AR
+82.5,67.5,Arctic_Region,Polar,0.0,1,AR
+82.5,72.5,Arctic_Region,Polar,0.0,1,AR
+82.5,77.5,Arctic_Region,Polar,0.0,1,AR
+82.5,82.5,Arctic_Region,Polar,0.0,1,AR
+82.5,87.5,Arctic_Region,Polar,0.0,1,AR
+82.5,92.5,Arctic_Region,Polar,0.0,1,AR
+82.5,97.5,Arctic_Region,Polar,0.0,1,AR
+82.5,102.5,Arctic_Region,Polar,0.0,1,AR
+82.5,107.5,Arctic_Region,Polar,0.0,1,AR
+82.5,112.5,Arctic_Region,Polar,0.0,1,AR
+82.5,117.5,Arctic_Region,Polar,0.0,1,AR
+82.5,122.5,Arctic_Region,Polar,0.0,1,AR
+82.5,127.5,Arctic_Region,Polar,0.0,1,AR
+82.5,132.5,Arctic_Region,Polar,0.0,1,AR
+82.5,137.5,Arctic_Region,Polar,0.0,1,AR
+82.5,142.5,Arctic_Region,Polar,0.0,1,AR
+82.5,147.5,Arctic_Region,Polar,0.0,1,AR
+82.5,152.5,Arctic_Region,Polar,0.0,1,AR
+82.5,157.5,Arctic_Region,Polar,0.0,1,AR
+82.5,162.5,Arctic_Region,Polar,0.0,1,AR
+82.5,167.5,Arctic_Region,Polar,0.0,1,AR
+82.5,172.5,Arctic_Region,Polar,0.0,1,AR
+82.5,177.5,Arctic_Region,Polar,0.0,1,AR
+82.5,182.5,Arctic_Region,Polar,0.0,1,AR
+82.5,187.5,Arctic_Region,Polar,0.0,1,AR
+82.5,192.5,Arctic_Region,Polar,0.0,1,AR
+82.5,197.5,Arctic_Region,Polar,0.0,1,AR
+82.5,202.5,Arctic_Region,Polar,0.0,1,AR
+82.5,207.5,Arctic_Region,Polar,0.0,1,AR
+82.5,212.5,Arctic_Region,Polar,0.0,1,AR
+82.5,217.5,Arctic_Region,Polar,0.0,1,AR
+82.5,222.5,Arctic_Region,Polar,0.0,1,AR
+82.5,227.5,Arctic_Region,Polar,0.0,1,AR
+82.5,232.5,Arctic_Region,Polar,0.0,1,AR
+82.5,237.5,Arctic_Region,Polar,0.0,1,AR
+82.5,242.5,Arctic_Region,Polar,0.0,1,AR
+82.5,247.5,Arctic_Region,Polar,0.0,1,AR
+82.5,252.5,Arctic_Region,Polar,0.0,1,AR
+82.5,257.5,Arctic_Region,Polar,0.0,1,AR
+82.5,262.5,Arctic_Region,Polar,0.0,1,AR
+82.5,267.5,Arctic_Region,Polar,0.0,1,AR
+82.5,272.5,Arctic_Region,Polar,0.0,1,AR
+82.5,277.5,Arctic_Region,Polar,0.0,1,AR
+82.5,282.5,Arctic_Region,Polar,0.0,1,AR
+82.5,287.5,Arctic_Region,Polar,0.0,1,AR
+82.5,292.5,Arctic_Region,Polar,0.0,1,AR
+82.5,297.5,Arctic_Region,Polar,0.0,1,AR
+82.5,302.5,Arctic_Region,Polar,0.0,1,AR
+82.5,307.5,Arctic_Region,Polar,0.0,1,AR
+82.5,312.5,Arctic_Region,Polar,0.0,1,AR
+82.5,317.5,Arctic_Region,Polar,0.0,1,AR
+82.5,322.5,Arctic_Region,Polar,0.0,1,AR
+82.5,327.5,Arctic_Region,Polar,0.0,1,AR
+82.5,332.5,Arctic_Region,Polar,0.0,1,AR
+82.5,337.5,Arctic_Region,Polar,0.0,1,AR
+82.5,342.5,Arctic_Region,Polar,0.0,1,AR
+82.5,347.5,Arctic_Region,Polar,0.0,1,AR
+82.5,352.5,Arctic_Region,Polar,0.0,1,AR
+82.5,357.5,Arctic_Region,Polar,0.0,1,AR
+87.5,2.5,Arctic_Region,Polar,0.0,1,AR
+87.5,7.5,Arctic_Region,Polar,0.0,1,AR
+87.5,12.5,Arctic_Region,Polar,0.0,1,AR
+87.5,17.5,Arctic_Region,Polar,0.0,1,AR
+87.5,22.5,Arctic_Region,Polar,0.0,1,AR
+87.5,27.5,Arctic_Region,Polar,0.0,1,AR
+87.5,32.5,Arctic_Region,Polar,0.0,1,AR
+87.5,37.5,Arctic_Region,Polar,0.0,1,AR
+87.5,42.5,Arctic_Region,Polar,0.0,1,AR
+87.5,47.5,Arctic_Region,Polar,0.0,1,AR
+87.5,52.5,Arctic_Region,Polar,0.0,1,AR
+87.5,57.5,Arctic_Region,Polar,0.0,1,AR
+87.5,62.5,Arctic_Region,Polar,0.0,1,AR
+87.5,67.5,Arctic_Region,Polar,0.0,1,AR
+87.5,72.5,Arctic_Region,Polar,0.0,1,AR
+87.5,77.5,Arctic_Region,Polar,0.0,1,AR
+87.5,82.5,Arctic_Region,Polar,0.0,1,AR
+87.5,87.5,Arctic_Region,Polar,0.0,1,AR
+87.5,92.5,Arctic_Region,Polar,0.0,1,AR
+87.5,97.5,Arctic_Region,Polar,0.0,1,AR
+87.5,102.5,Arctic_Region,Polar,0.0,1,AR
+87.5,107.5,Arctic_Region,Polar,0.0,1,AR
+87.5,112.5,Arctic_Region,Polar,0.0,1,AR
+87.5,117.5,Arctic_Region,Polar,0.0,1,AR
+87.5,122.5,Arctic_Region,Polar,0.0,1,AR
+87.5,127.5,Arctic_Region,Polar,0.0,1,AR
+87.5,132.5,Arctic_Region,Polar,0.0,1,AR
+87.5,137.5,Arctic_Region,Polar,0.0,1,AR
+87.5,142.5,Arctic_Region,Polar,0.0,1,AR
+87.5,147.5,Arctic_Region,Polar,0.0,1,AR
+87.5,152.5,Arctic_Region,Polar,0.0,1,AR
+87.5,157.5,Arctic_Region,Polar,0.0,1,AR
+87.5,162.5,Arctic_Region,Polar,0.0,1,AR
+87.5,167.5,Arctic_Region,Polar,0.0,1,AR
+87.5,172.5,Arctic_Region,Polar,0.0,1,AR
+87.5,177.5,Arctic_Region,Polar,0.0,1,AR
+87.5,182.5,Arctic_Region,Polar,0.0,1,AR
+87.5,187.5,Arctic_Region,Polar,0.0,1,AR
+87.5,192.5,Arctic_Region,Polar,0.0,1,AR
+87.5,197.5,Arctic_Region,Polar,0.0,1,AR
+87.5,202.5,Arctic_Region,Polar,0.0,1,AR
+87.5,207.5,Arctic_Region,Polar,0.0,1,AR
+87.5,212.5,Arctic_Region,Polar,0.0,1,AR
+87.5,217.5,Arctic_Region,Polar,0.0,1,AR
+87.5,222.5,Arctic_Region,Polar,0.0,1,AR
+87.5,227.5,Arctic_Region,Polar,0.0,1,AR
+87.5,232.5,Arctic_Region,Polar,0.0,1,AR
+87.5,237.5,Arctic_Region,Polar,0.0,1,AR
+87.5,242.5,Arctic_Region,Polar,0.0,1,AR
+87.5,247.5,Arctic_Region,Polar,0.0,1,AR
+87.5,252.5,Arctic_Region,Polar,0.0,1,AR
+87.5,257.5,Arctic_Region,Polar,0.0,1,AR
+87.5,262.5,Arctic_Region,Polar,0.0,1,AR
+87.5,267.5,Arctic_Region,Polar,0.0,1,AR
+87.5,272.5,Arctic_Region,Polar,0.0,1,AR
+87.5,277.5,Arctic_Region,Polar,0.0,1,AR
+87.5,282.5,Arctic_Region,Polar,0.0,1,AR
+87.5,287.5,Arctic_Region,Polar,0.0,1,AR
+87.5,292.5,Arctic_Region,Polar,0.0,1,AR
+87.5,297.5,Arctic_Region,Polar,0.0,1,AR
+87.5,302.5,Arctic_Region,Polar,0.0,1,AR
+87.5,307.5,Arctic_Region,Polar,0.0,1,AR
+87.5,312.5,Arctic_Region,Polar,0.0,1,AR
+87.5,317.5,Arctic_Region,Polar,0.0,1,AR
+87.5,322.5,Arctic_Region,Polar,0.0,1,AR
+87.5,327.5,Arctic_Region,Polar,0.0,1,AR
+87.5,332.5,Arctic_Region,Polar,0.0,1,AR
+87.5,337.5,Arctic_Region,Polar,0.0,1,AR
+87.5,342.5,Arctic_Region,Polar,0.0,1,AR
+87.5,347.5,Arctic_Region,Polar,0.0,1,AR
+87.5,352.5,Arctic_Region,Polar,0.0,1,AR
+87.5,357.5,Arctic_Region,Polar,0.0,1,AR
